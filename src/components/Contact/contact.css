@@ -1,0 +1,36 @@
+/* contact.css */
+.contactSection {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .contactList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .contactList li {
+    margin: 1rem 0;
+  }
+  
+  .contactList a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  .contactList a:hover {
+    text-decoration: underline;
+  }
+  .downloadResumeButton {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    background-color: #007BFF; /* Change this to your preferred color */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.downloadResumeButton:hover {
+    background-color: #0056b3; /* Darker shade for hover effect */
+}

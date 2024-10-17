@@ -1,0 +1,35 @@
+.projectsSection {
+  padding: 3rem;
+  background-color: #fff;
+}
+
+.projectsContent {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 2rem;
+}
+
+.projectItem {
+  background-color:#f9f9f9;
+  border-radius: 5px;
+  padding: 1rem;
+  text-align: center;
+  width: 250px;
+}
+
+.projectImage {
+  width: 80%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.projectItem h3 {
+  margin-top: 1rem;
+  font-size: 1.25rem;
+}
+
+.projectItem p {
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}

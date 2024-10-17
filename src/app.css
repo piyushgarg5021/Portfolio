@@ -1,0 +1,16 @@
+/* App.css */
+
+/* Light Theme Styles */
+body.light {
+    background-color: white;
+    color: black;
+  }
+  
+  /* Dark Theme Styles */
+  body.dark {
+    background-color: #121212;
+    color: white;
+  }
+  
+  /* Add more styles for specific components as needed */
+  
